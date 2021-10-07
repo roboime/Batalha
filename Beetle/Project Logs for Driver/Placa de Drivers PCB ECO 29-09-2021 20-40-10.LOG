@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetP1_4 Pin=U1-7
+Removed Pin From Net: NetName=NetP1_3 Pin=U1-8
+Removed Pin From Net: NetName=NetP1_2 Pin=U1-14
+Removed Pin From Net: NetName=NetP1_2 Pin=U1-15
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-18
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-19
+Removed Pin From Net: NetName=NetP2_4 Pin=U2-7
+Removed Pin From Net: NetName=NetP2_3 Pin=U2-8
+Removed Pin From Net: NetName=NetP2_2 Pin=U2-14
+Removed Pin From Net: NetName=NetP2_2 Pin=U2-15
+Removed Pin From Net: NetName=NetP2_1 Pin=U2-18
+Removed Pin From Net: NetName=NetP2_1 Pin=U2-19
+Change Component Designator: OldDesignator=P3 NewDesignator=P?
+Added Pin To Net: NetName=NetP1_3 Pin=U1-7
+Added Pin To Net: NetName=NetP1_4 Pin=U1-8
+Added Pin To Net: NetName=NetP1_1 Pin=U1-14
+Added Pin To Net: NetName=NetP1_1 Pin=U1-15
+Added Pin To Net: NetName=NetP1_2 Pin=U1-18
+Added Pin To Net: NetName=NetP1_2 Pin=U1-19
+Added Pin To Net: NetName=NetP2_3 Pin=U2-7
+Added Pin To Net: NetName=NetP2_4 Pin=U2-8
+Added Pin To Net: NetName=NetP2_1 Pin=U2-14
+Added Pin To Net: NetName=NetP2_1 Pin=U2-15
+Added Pin To Net: NetName=NetP2_2 Pin=U2-18
+Added Pin To Net: NetName=NetP2_2 Pin=U2-19
+Added Room: Name=drivers
