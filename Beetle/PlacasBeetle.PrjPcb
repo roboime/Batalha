@@ -91,22 +91,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COJXETBX
 
-[Document4]
-DocumentPath=PlacasBeetle.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PlacasBeetle\Design Rule Check - PlacaMãe.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Configuration1]
 Name=Sources

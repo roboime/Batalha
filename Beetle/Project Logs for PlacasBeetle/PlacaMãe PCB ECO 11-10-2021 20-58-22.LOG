@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetP2_11 Pin=U2-7
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U2-7
+Added Net: Name=NetP1_2
+Added Room: Name=IMU
+Added Room: Name=PlacaMãe_Raw

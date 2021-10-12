@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Change Component Footprint: Designator=C4 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC2013X140X50NL20T25
+Change Component Comment : Designator=C4 Old Comment=470nF, 16V New Comment=470nF, 50V
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EE208B25-8B3B-4981-895C-7C947EC7464E New ItemGUID=E9C1B470-79C9-44FF-9C8A-EE56F6BA1AAD Old RevisionGUID=7BA383E1-16B0-466A-A3F4-E87752986295 New RevisionGUID=EB76816A-CC36-4108-8F62-DC368B5FE838
+Change component parameters: Designator = "C4" ("C4"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\JQJQTKYV" ("\JQJQTKYV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "08055C474KAZ2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-10
+Added Net: Name=NetC4_2
+Added Room: Name=IMU
+Added Room: Name=PlacaMãe_Raw
