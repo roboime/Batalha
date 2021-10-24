@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VBat Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=NetP1_10 Pin=R6-2
+Removed Pin From Net: NetName=NetP1_10 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=VBat Pin=U4-3
+Removed Pin From Net: NetName=VBat Pin=U4-4
+Removed Pin From Net: NetName=VBat Pin=U4-5
+Removed Member From Class: ClassName=PlacaMãe_Raw Member=C10
+Removed Member From Class: ClassName=PlacaMãe_Raw Member=R6
+Removed Member From Class: ClassName=PlacaMãe_Raw Member=U4
+Added Pin To Net: NetName=NetP1_9 Pin=P1-9
+Added Net: Name=NetP1_9
+Added Room: Name=IMU
+Added Room: Name=PlacaMãe_Raw

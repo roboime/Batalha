@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=C11-1
+Removed Pin From Net: NetName=+5 Pin=U5-3
+Added Pin To Net: NetName=VBat Pin=C11-1
+Added Pin To Net: NetName=VBat Pin=U5-3
+Added Room: Name=IMU
+Added Room: Name=PlacaMãe_Raw
