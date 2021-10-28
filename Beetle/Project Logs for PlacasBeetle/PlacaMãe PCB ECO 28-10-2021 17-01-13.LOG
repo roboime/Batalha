@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=BATTERY_CONNECTOR-0
+Removed Pin From Net: NetName=VBat Pin=BATTERY_CONNECTOR-1
+Added Room: Name=IMU
+Added Room: Name=PlacaMãe_Raw
