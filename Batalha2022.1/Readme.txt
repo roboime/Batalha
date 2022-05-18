@@ -1,0 +1,1 @@
+Esta pasta destina-se a colocar os projetos realizados no período de 2022.1 no projeto do batalha
